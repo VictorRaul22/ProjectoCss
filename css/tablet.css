@@ -1,0 +1,16 @@
+.plans-slider{
+    width: 930px;
+    margin: 0 auto;
+    
+}
+.main-product__product-cards{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+.container-arrow-tables{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
